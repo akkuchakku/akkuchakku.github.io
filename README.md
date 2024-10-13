@@ -1,90 +1,182 @@
-# art.studio template
+# [Material Tailwind Kit React](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-tailwind-kit-react&text=Check%20Material%20Tailwind%20Kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20#materialtailwind%20#tailwindcss%20https://www.creative-tim.com/product/material-tailwind-kit-react)
 
-### Note
+![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-tailwind-kit-react.svg)](https://github.com/creativetimofficial/material-tailwind-kit-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-tailwind-kit-react.svg)](https://github.com/creativetimofficial/material-tailwind-kit-react/issues?q=is%3Aissue+is%3Aclosed)
 
-The `docs` folder is for demo purposes only.
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/486/original/material-tailwind-kit-react.jpg)
 
-Changes should be commited to `src/` files only.
+Material Tailwind Kit React is our newest free Material Tailwind UI Kit based on Tailwind CSS and React. If you’re a developer looking to create an ui kit that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative Material Tailwind, Tailwind CSS & React ui kit comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
 
-### How to use
+**Fully Coded Elements**
 
-The template is built with Sass and Gulp build system with these features:
+Material Tailwind Kit React is built with over 40 frontend individual elements coming from @material-tailwind/react, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using props and tailwind css classnames. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
--	Handlebars HTML templates with Panini– Panini is a super simple flat file generator for use with Gulp. It compiles a series of HTML pages using a common layout. These pages can also include HTML partials, external Handlebars helpers, or external data as JSON.
--	Sass compilation, prefixing with Autoprefixer, and JavaScript concatenation
--	Built-in BrowserSync server - Will automatically reload your page when files are changed. It also live-injects CSS changes when you save a Sass file. This task runs continuously. Defaults to localhost. 
--	For production builds - CSS compression, JavaScript compression, Image compression and more..
+This free Material Tailwind, Tailwind CSS & React UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+View [all components here](https://www.material-tailwind.com/docs/react/button).
+
+**Documentation built by Developers**
+
+Each element is well presented in very complex documentation.
+
+You can read more about the [documentation here](https://www.material-tailwind.com/docs/react/installation).
+
+**Example Pages**
+
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+
+View [example pages here](https://demos.creative-tim.com/material-tailwind-kit-react/#/home).
+
+**HELPFUL LINKS**
+
+- View [Github Repository](https://github.com/creativetimofficial/material-tailwind-kit-react)
+- Check [FAQ Page](https://www.creative-tim.com/faq)
+
+#### Special thanks
+
+During the development of this ui kit, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+
+- [Material Tailwind](https://material-tailwind.com/) - Material Tailwind is an easy to use components library for Tailwind CSS and Material Design.
+- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Tailwind Kit React. You can use it to gain insights into your sources of traffic.
+
+Let us know your thoughts below. And good luck with development!
+
+## Table of Contents
+
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Deploy](#deploy)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
+
+## Versions
+
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr)
+
+| React |
+| ----- |
+
+| [![Material Tailwind Kit React](https://s3.amazonaws.com/creativetim_bucket/products/486/thumb/material-tailwind-kit-react.jpg)](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr)
+
+## Demo
+
+- [Home page](https://demos.creative-tim.com/material-tailwind-kit-react/#/home?ref=readme-mtkr)
+- [Profile page](https://demos.creative-tim.com/material-tailwind-kit-react/#/profile?ref=readme-mtkr)
+- [Sign in page](https://demos.creative-tim.com/material-tailwind-kit-react/#/sign-in?ref=readme-mtkr)
+- [Sign up page](https://demos.creative-tim.com/material-tailwind-kit-react/#/sign-up?ref=readme-mtkr)
+
+[View More](https://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr).
+
+## Quick start
+
+Quick start options:
+
+- Downdload from [Creative Tim](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr).
+
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `npm install` or `yarn install` or `pnpm install` to install our local dependencies.
+
+## Deploy
+
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/material-tailwind-kit-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 
-### Requirements
+## Documentation
 
-To use this template, your computer needs:
+The documentation for the Material Tailwind Kit React is hosted at our [website](https://material-tailwind.com/?ref=readme-mtkr).
 
--	Node.js is used to run the build processes. https://nodejs.org/en/download/
--   Test: run ` node -v ` in the terminal
--	Npm (Node comes with npm installed so you should have a version of npm.) Used to manage development dependencies.
--   Test: run ` npm -v`  in the terminal
--	Gulp – task runner
-	`npm install -g gulp`
--	Test: run `gulp -v ` in the terminal
+### What's included
 
-### Installing:
+Within the download you'll find the following directories and files:
 
-- Clone this repo: `git clone https://github.com/johndavemanuel/bootstrap-gulp-starter-template.git`
-- Navigate into the repo directory: `cd bootstrap-gulp-starter-template`
-- Install all node packages: `npm install`
-- Run `gulp dev`
-- Your site is now viewable at this URL: http://localhost:3000
-- To create compressed, production-ready assets run `gulp prod`. This will delete everything in the dist folder and recreate all of your complied files. Never make updates directly into the dist folder as these files get overridden each time. Note: The dist folder is not kept in source control.
+```
+material-tailwind-kit-react
+    ├── public
+    │   ├── css
+    │   └── img
+    ├── src
+    │   ├── data
+    │   ├── pages
+    │   ├── widgets
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │   └── routes.jsx
+    ├── .gitignore
+    ├── CHANGELOG.md
+    ├── index.html
+    ├── ISSUE_TEMPLATE.md
+    ├── jsconfig.json
+    ├── LICENSE
+    ├── package.json
+    ├── postcsss.config.cjs
+    ├── prettier.config.cjs
+    ├── README.md
+    ├── tailwind.config.cjs
+    └── vite.config.js
+```
 
+## Browser Support
 
-### Folder Structure:
+At present, we officially aim to support the last two versions of the following browsers:
 
-- `dist/` - compiled distribution files
-- `node_modules` - front-end dependencies
-- `src/` - contains all of your core, working files—static assets, pages, templates, etc
-- `src/assets/` - scss files, JS files, images, and fonts are here
-- `src/data/` - external data
-- `src/layouts/` - HTML layouts templates
-- `src/pages/` - site pages
-- `src/partials/` - handlebars partials files.
-- `gulpfile.js` - all task definitions
-- `package.json` - handles the front-end dependencies
-- `.htmllintrc` - handles the HTML lint rules
-- `.sass-lint.yml` - handles the SCSS lint rules
-- `reports` - txt generated file for accessibility issues
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-### Gulp Plugins:
-- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
-- [gulp-compile-handlebars](https://www.npmjs.com/package/gulp-compile-handlebars)
-- [gulp-concat](https://www.npmjs.com/package/gulp-concat)
-- [gulp-cssmin](https://www.npmjs.com/package/gulp-cssmin)
-- [gulp-html-replace](https://www.npmjs.com/package/gulp-html-replace)
-- [gulp-htmllint](https://www.npmjs.com/package/gulp-htmllint)
-- [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
-- [gulp-pretty-html](https://www.npmjs.com/package/gulp-pretty-html)
-- [gulp-remove-code](https://www.npmjs.com/package/gulp-remove-code)
-- [gulp-remove-logging](https://www.npmjs.com/package/gulp-remove-logging)
-- [gulp-rename](https://www.npmjs.com/package/gulp-rename)
-- [gulp-sass](https://www.npmjs.com/package/gulp-sass)
-- [node-bourbon](https://www.npmjs.com/package/node-bourbon)
-- [gulp-sass-lint](https://www.npmjs.com/package/gulp-sass-lint)
-- [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
-- [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
-- [gulp-newer](https://www.npmjs.com/package/gulp-newer)
-- [gulp-accessibility](https://www.npmjs.com/package/gulp-accessibility)
-- [gulp-jshint](https://www.npmjs.com/package/gulp-jshint)
-- [gulp-gulp-gh-pages](https://www.npmjs.com/package/gulp-gh-pages)
-- [gulp-babel](https://www.npmjs.com/package/gulp-babel)
-- [panini](https://www.npmjs.com/package/panini)
-- [run-sequence](https://www.npmjs.com/package/run-sequence)
-- [ansi-colors](https://www.npmjs.com/package/ansi-colors)
-- [fancy-log](https://www.npmjs.com/package/fancy)
+## Resources
 
+- [Live Preview](https://demos.creative-tim.com/material-tailwind-kit-react/#/home?ref=readme-mtkr)
+- [Download Page](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr)
+- Documentation is [here](https://material-tailwind.com/?ref=readme-mtkr)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-mtkr)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-mtkr)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-tailwind-kit-react/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
-### Additional Resources:
-- [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Handlebars](http://handlebarsjs.com/)
-- [Panini](https://github.com/zurb/panini) 
-- [Gulp](https://gulpjs.org/getting-started)
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the Material Tailwind Kit React. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Material Tailwind Kit React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr).
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-mtkr) instead of opening an issue.
+
+## Licensing
+
+- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-mtkr)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-mtkr)
+
+## Useful Links
+
+- [More products](https://www.creative-tim.com/templates?ref=readme-mtkr) from Creative Tim
+
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mtkr) from Creative Tim
+
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mtkr) (earn money)
+
+##### Social Media
+
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
