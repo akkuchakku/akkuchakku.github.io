@@ -1,0 +1,15 @@
+[
+['Knight', '12', pygame.image.load('cards/knight.png'), '22', pygame.image.load('misc/amulet.png'), '13', 2, 2, 2, 1, '23', ['Increases all', 'stats for one', 'level'], pygame.image.load('misc/sword.png'), 50],
+
+['Paladin', '32', pygame.image.load('cards/paladin.png'), '42', pygame.image.load('misc/reflect.png'), '33', 1, 1, 2, 3, '43', ['For one level', 'shield increases', 'and reflects', 'damage'], pygame.image.load('misc/sword.png'), 100],
+
+['Rogue', '52', pygame.image.load('cards/rogue.png'), '62', pygame.image.load('misc/cloak.png'), '53', 2, 1, 3, 0, '63', ['Invisible', 'for one turn'], pygame.image.load('misc/sword.png'), 100],
+
+['Mage', '14', pygame.image.load('cards/mage.png'), '24', pygame.image.load('misc/armourbreak.png'), '15', 1, 3, 2, 0, '25', ['Armour', 'penetration', 'for one level'], pygame.image.load('misc/fire.png'), 50],
+
+['Priest', '34', pygame.image.load('cards/priest.png'), '44', pygame.image.load('misc/revive.png'), '35', 2, 1, 2, 1, '45', ['Revives once', 'on death'], pygame.image.load('misc/light.png'), 250],
+
+['Necromancer', '54', pygame.image.load('cards/necromancer.png'), '64', pygame.image.load('misc/lifesteal.png'), '55', 3, 2, 2, 0, '65', ['Life steal', 'on kills', 'for one', 'level'], pygame.image.load('misc/shadow.png'), 50],
+
+['Dark Knight', '71', pygame.image.load('cards/dark knight.png'), '00', pygame.image.load('misc/teleport.png'), '00', 1, 2, 3, 2, '00', ['Teleport to', 'any empty', 'square'], pygame.image.load('misc/lightning.png'), 150]
+]

@@ -1,0 +1,7 @@
+# 	World 4 - Ice
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/ice.png
+enemy:frost slime:cards/frost slime.png:1:1:1:1:misc/ice.png
+enemy:frost giant:cards/frost giant.png:6:2:1:3:misc/ice.png
+special:chest:cards/chest.png:2:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:2:misc/fire.png

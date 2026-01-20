@@ -1,0 +1,7 @@
+# 	World 7 - Airship
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/airship.png
+enemy:crow:cards/crow.png:2:3:3:1:misc/claw.png
+enemy:gryphon:cards/gryphon.png:5:4:2:3:misc/claw.png
+special:chest:cards/chest.png:4:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:4:misc/fire.png

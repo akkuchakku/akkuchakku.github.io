@@ -1,0 +1,6 @@
+# 	World 11 - Spaceship
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/spaceship.png
+boss:evil space wizard:cards/evil space wizard.png:20:8:4:7:misc/lightning.png
+enemy:cosmic slime:cards/cosmic slime.png:1:10:1:10:misc/black hole.png
+special:chest:cards/chest.png:10:0:0:0:misc/fire.png
