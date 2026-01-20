@@ -1,12 +1,12 @@
 import os, sys, math, random, time
 
-try:
-    os.system('py -m pip install --upgrade pip')
-    os.system('py -m pip install --upgrade pygame') #Windows
+# try:
+#     os.system('py -m pip install --upgrade pip')
+#     os.system('py -m pip install --upgrade pygame') #Windows
 
-except:
-    os.system('python3 -m pip install --upgrade pip')
-    os.system('python3 -m pip install -U pygame --user --upgrade') #Mac
+# except:
+#     os.system('python3 -m pip install --upgrade pip')
+#     os.system('python3 -m pip install -U pygame --user --upgrade') #Mac
 
 import pygame
 from pygame.locals import *
