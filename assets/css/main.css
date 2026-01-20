@@ -5131,7 +5131,7 @@ input[type="button"].btn-block {
 }
 
 /* line 37, node_modules/bootstrap/scss/_nav.scss */
-.nav-tabs .nav-item {
+.nav-tabs .nav-item .dropdown {
   margin-bottom: -1px;
 }
 
