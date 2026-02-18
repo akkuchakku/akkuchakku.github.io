@@ -1,0 +1,7 @@
+# 	World 9 - Volcano
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/volcano.png
+enemy:fire demon:cards/fire demon.png:5:9:3:2:misc/fire.png
+enemy:fire slime:cards/fire slime.png:1:2:1:0:misc/fire.png
+special:chest:cards/chest.png:5:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:5:misc/fire.png

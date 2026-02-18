@@ -1,0 +1,54 @@
+h1The Tower
+h2Objective
+["Navigate your chosen character through multiple levels", "of the tower, using coins and items to help you"]
+h2Story
+["Climb through 10 different worlds until you reach the", "space station where you will fight the Evil Space Wizard"]
+h2Endless
+["Play through randomly generated levels from all 10 worlds.","The top 12 runs are saved on the scoreboard"]
+pg
+h1The Grid
+h2Heroes
+["Select your hero at the start of each run. Every hero has their", "own strengths and weaknesses and unique ability.", "There is also a secret 7th hero hidden on the character select screen :)"]
+h2Enemies
+["The tower is overrun with different enemies that will chase and attack", "you. Make sure you have a way to fight them off or avoid them completely.", "However, you must defeat the boss in story mode to win. Enemies also", "drop coins on death, so make sure to kill enough enemies", "so you can upgrade your stats with coins."]
+pg
+h2Portal
+["The portal is your gateway to the next floor of the tower. The portal can", "be entered at any time, unless fighting the boss in their space station.", "The portal has magic cleansing properties that will remove all buffs", "and return you to full health and defence"]
+h2Chest
+["The chest is a special card that will drop extra gold when destroyed", "However, be careful of enemies that may attack you while you try to", "break the chest"]
+pg
+h1Gameplay
+h2Turns
+["This is a turn based game. Each turn, the player can chose to activate", "their ability. Then they can either move, or attack an enemy. After the", "player turn, enemies will either attack the player or move closer if", "out of range."]
+h2Moving
+["To move, first click on your hero. Then click on any EMPTY tile that", "is highlighted BLUE. The player will move past any enemies in the way"]
+pg
+h2Attacking
+["To attack an enemy, click on your hero.", "Then click on any ENEMY tile that is highlighted BLUE"]
+h2Abilities
+["To activate a unique ability, click the square on the side menu with an icon", "of that ability. Using an ability will consume one USE.", "The REVIVE cannot be manually activated."]
+pg
+h1Stats
+["Each card has four stats that affect their interactions with other cards.", "The stats are represented by icons on the cards on the grid."]
+h2Health
+["(Heart Icon)", "When a card's health is less than 0, they are dead."]
+h2Damage
+["(Sword Icon)", "Determines damage dealt when attacking."]
+h2Speed
+["(Arrow Icon)", "Determines move and attack range."]
+pg
+h2Defence
+["(Shield Icon)", "Reduces damage taken. If an attack is completely", "blocked, defence will weaken slightly."]
+h1Shop
+["Upgrades and ability uses can be bought from the shop.", "Access the shop by clicking the coin icon on the side menu"]
+h2Upgrading
+["In the shop, click on the arrow next to a stat to upgrade it. If you have", "enough coins, the stat will be upgraded. Type a number or use the", "backspace, to change the number of upgrades bought at a time"]
+pg
+h2Abilities
+["Each hero has a unique ability. Abilitiy uses can be bought in the shop,", "Though they are expensive. They can also be upgraded to be more effective."]
+h1Other
+h2Pause
+["The pause menu can be accessed by clicking on the pause icon in the", "side menu.", "From here, you can disable sounds and animation or", "return to the main menu."]
+pg
+h2Shortcuts
+["Pressing 'O' or 'P' from the grid will take you to the SHOP or PAUSE", "respectively. Pressing ESC at any time will return to the game screen", "or if already there, to the pause menu.", "Pressing ESC from the main menu will close the game"]

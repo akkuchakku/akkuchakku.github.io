@@ -1,0 +1,6 @@
+[
+[0, 'Knight', 0],
+[0, 'Priest', 34],
+[1, 'Dark Knight', 0],
+[0, 'Dark Knight', 0],
+]

@@ -1,0 +1,7 @@
+# 	World 8 - Castle
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/castle.png
+enemy:ghost:cards/ghost.png:1:4:3:6:misc/shadow.png
+enemy:demon:cards/demon.png:5:7:2:3:misc/shadow.png
+special:chest:cards/chest.png:4:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:4:misc/fire.png

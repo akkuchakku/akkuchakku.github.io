@@ -1,0 +1,7 @@
+# 	World 3 - Ocean
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/ocean.png
+enemy:urchin:cards/urchin.png:2:6:1:0:misc/claw.png
+enemy:sea serpent:cards/sea serpent.png:4:4:3:4:misc/claw.png
+special:chest:cards/chest.png:2:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:2:misc/fire.png
