@@ -10,47 +10,6 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/main.min.css">
     <link rel="stylesheet" href="assets/css/rtl.css">
-
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 100vh;
-        }
-        .dropdown {
-            position: relative;
-            display: inline-block;
-        }
-        .dropbtn {
-            background-color: #f1f1f1;
-            color: black;
-            padding: 10px 20px;
-            font-size: 16px;
-            border: none;
-            cursor: pointer;
-            min-width: 160px;
-        }
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #fff;
-            min-width: 160px;
-            border: 1px solid #ddd;
-            z-index: 1;
-        }
-        .dropdown:hover .dropdown-content {
-            display: block;
-        }
-        .dropdown-content div {
-            padding: 10px;
-            cursor: pointer;
-        }
-        .dropdown-content div:hover {
-            background-color: #e6e6e6;
-        }
-    </style>
 </head>
 
 <body>
@@ -78,15 +37,13 @@
                             <a class="nav-link" href="other.html">Other Work</a>
                         </li>
 
-                        <li class=""nav-item">
-                            <div class="dropdown">
-                                <button class="dropbtn">Other Work</button>
-                                <div class="dropdown-content">
-                                    <a class="nav-link" href="other.html">One</a>
-                                    <a class="nav-link" href="other.html">Two</a>
-                                    <a class="nav-link" href="other.html">Three</a>
-                                </div>
-                            </div>
+                        <li class="nav-item">
+                            <p>Testing Other Work</p>
+                            <ul class="submenu">
+                                <li>SP2 Exercises</li>
+                                <li>SP3 Exercises</li>
+                                <li>SP3 Proof of Concept</li>
+                            </ul>
                         </li>
 
                     </ul>
