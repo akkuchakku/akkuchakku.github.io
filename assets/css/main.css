@@ -5139,7 +5139,7 @@ input[type="button"].btn-block {
 }
 
 /* line 94, node_modules/bootstrap/scss/_nav.scss */
-.nav-fill .nav-item {
+.nav-fill .nav-item .dropdown {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
@@ -5147,7 +5147,7 @@ input[type="button"].btn-block {
 }
 
 /* line 101, node_modules/bootstrap/scss/_nav.scss */
-.nav-justified .nav-item {
+.nav-justified .nav-item .dropdown {
   -ms-flex-preferred-size: 0;
       flex-basis: 0;
   -webkit-box-flex: 1;
@@ -12924,7 +12924,7 @@ ul.menu li {
   padding: 1.5rem;
 }
 
-.menu .submenu {
+.dropdown .submenu {
   opacity: 0;
   pointer-events: none;
   position: absolute;
@@ -12935,7 +12935,7 @@ ul.menu li {
   transition: all .3s ease;
 }
 
-.menu .submenu li {
+.dropdown .submenu li {
   color: white;
   padding: 1rem;
   border-radius: .5rem;
