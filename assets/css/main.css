@@ -5088,7 +5088,7 @@ input[type="button"].btn-block {
 }
 
 /* line 37, node_modules/bootstrap/scss/_nav.scss */
-.nav-tabs .nav-item .dropdown {
+.nav-tabs .nav-item {
   margin-bottom: -1px;
 }
 
@@ -5139,7 +5139,7 @@ input[type="button"].btn-block {
 }
 
 /* line 94, node_modules/bootstrap/scss/_nav.scss */
-.nav-fill .nav-item .dropdown {
+.nav-fill .nav-item {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
@@ -5147,7 +5147,7 @@ input[type="button"].btn-block {
 }
 
 /* line 101, node_modules/bootstrap/scss/_nav.scss */
-.nav-justified .nav-item .dropdown {
+.nav-justified .nav-item {
   -ms-flex-preferred-size: 0;
       flex-basis: 0;
   -webkit-box-flex: 1;
@@ -12921,6 +12921,15 @@ footer a {
   position: relative;
 }
 
-.dropdown:hover {
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 130px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content {
   display: block;
 }
