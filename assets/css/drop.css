@@ -25,14 +25,14 @@
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: #6b3737;
+  color: white;
   padding: 12px 16px;
   text-decoration: none;
   display: inline-block;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #6b3737;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
