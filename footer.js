@@ -11,7 +11,7 @@ class Footer extends HTMLElement {
 
                         <div class="col-lg-3 mt-4 ml-auto">
                             <ul class="list-unstyled footer-link">
-                                <li><a href="https://www.instagram.com/akku.chakku/">3instagram</a></li>
+                                <li><a href="https://www.instagram.com/akku.chakku/">instagram</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 mt-4 ml-auto">
@@ -33,4 +33,5 @@ class Footer extends HTMLElement {
         `;
     }
 }
+customElements.define('footer-component', Footer);
 
