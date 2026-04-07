@@ -1,0 +1,10 @@
+- Universal navbar
+- Organise file system
+- Python Embed
+
+- Classwork: 
+    - Week 1 
+    - Week 4
+    - Week 5
+    - Week 7
+    - Week 8
