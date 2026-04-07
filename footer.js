@@ -33,6 +33,7 @@ class Footer extends HTMLElement {
                 </div>
                 <!--/.container-->
             </footer>
+            <script src="assets/js/main.min.js"></script>
         `;
     }
 }
