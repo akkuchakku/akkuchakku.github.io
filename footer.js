@@ -5,6 +5,9 @@ class Footer extends HTMLElement {
 
     connectedCallback() {
         this.innerHTML = `
+            <head>
+                <link rel="stylesheet" href="super.css">
+            </head>
             <footer class="position-relative">
                 <div class="container">
                     <div class="row">
