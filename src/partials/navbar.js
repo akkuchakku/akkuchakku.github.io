@@ -18,22 +18,22 @@ class Nav extends HTMLElement {
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="jeong.html">Jeong</a>
+                                    <a class="nav-link" href="/src/pages/main/jeong.html">Jeong</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="cradle.html">Video Essay</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="burning.html">Burning - Remake</a>
+                                    <a class="nav-link" href="/src/pages/main/cradle.html">Video Essay</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="literary.html">Literary Work</a>
+                                    <a class="nav-link" href="/src/pages/main/burning.html">Burning - Remake</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="toc.html">Tower of Cards</a>
+                                    <a class="nav-link" href="/src/pages/main/literary.html">Literary Work</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/src/pages/main/toc.html">Tower of Cards</a>
                                 </li>
                                 
                             </ul>
@@ -41,9 +41,9 @@ class Nav extends HTMLElement {
                             <div class="dropdown">
                                 <button class="dropbtn">Other Work</button>
                                 <div class="dropdown-content">
-                                    <a href="assets/otherpages/ex-sp2.html">SP2 Exercises</a>
-                                    <a href="assets/otherpages/ex-sp3.html">SP3 Exercises</a>
-                                    <a href="assets/otherpages/draft-sp3.html">SP3 Proof of Concept</a>
+                                    <a href="/src/pages/other/ex-sp2.html">SP2 Exercises</a>
+                                    <a href="/src/pages/other/ex-sp3.html">SP3 Exercises</a>
+                                    <a href="/src/pages/other/draft-sp3.html">SP3 Proof of Concept</a>
                                 </div>
                             </div>
 
