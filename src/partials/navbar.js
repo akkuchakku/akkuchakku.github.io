@@ -39,7 +39,7 @@ class Nav extends HTMLElement {
                                 <button class="dropbtn">Other Work</button>
                                 <div class="dropdown-content">
                                     <a href="/pages/other/ex-sp2.html">SP2 Exercises</a>
-                                    <a href="/pages/other/cradle.html">SP2 Video Essay</a>
+                                    <a href="/pages/other/cradle.html">SP2 Photo Essay</a>
                                     <a href="/pages/other/ex-sp3.html">SP3 Exercises</a>
                                     <a href="/pages/other/draft-sp3.html">SP3 Proof of Concept</a>
                                 </div>
