@@ -6,7 +6,7 @@ class Nav extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <head>
-                <link rel="stylesheet" href="/src/assets/css/super.css">
+                <link rel="stylesheet" href="/assets/css/super.css">
             </head>
             <div class="nav-main">
                 <div class="container">
@@ -18,22 +18,22 @@ class Nav extends HTMLElement {
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/src/pages/main/jeong.html">Jeong</a>
+                                    <a class="nav-link" href="/pages/main/jeong.html">Jeong</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/src/pages/main/cradle.html">Video Essay</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/src/pages/main/burning.html">Burning - Remake</a>
+                                    <a class="nav-link" href="/pages/main/cradle.html">Video Essay</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/src/pages/main/literary.html">Literary Work</a>
+                                    <a class="nav-link" href="/pages/main/burning.html">Burning - Remake</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/src/pages/main/toc.html">Tower of Cards</a>
+                                    <a class="nav-link" href="/pages/main/literary.html">Literary Work</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/pages/main/toc.html">Tower of Cards</a>
                                 </li>
                                 
                             </ul>
@@ -41,9 +41,9 @@ class Nav extends HTMLElement {
                             <div class="dropdown">
                                 <button class="dropbtn">Other Work</button>
                                 <div class="dropdown-content">
-                                    <a href="/src/pages/other/ex-sp2.html">SP2 Exercises</a>
-                                    <a href="/src/pages/other/ex-sp3.html">SP3 Exercises</a>
-                                    <a href="/src/pages/other/draft-sp3.html">SP3 Proof of Concept</a>
+                                    <a href="/pages/other/ex-sp2.html">SP2 Exercises</a>
+                                    <a href="/pages/other/ex-sp3.html">SP3 Exercises</a>
+                                    <a href="/pages/other/draft-sp3.html">SP3 Proof of Concept</a>
                                 </div>
                             </div>
 
