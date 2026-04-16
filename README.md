@@ -2,9 +2,9 @@
 
 ### User Notes
 ## Local Server
-Installation: `npm install http-server -g`
-Run Server: `http-server`
-Server Address: `localhost:8080`
+Installation: `npm install http-server -g` \
+Run Server: `http-server` \
+Server Address: `localhost:8080` \
 
 ### Template Notes
 The `docs` folder is for demo purposes only.
