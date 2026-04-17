@@ -1,0 +1,7 @@
+# 	World 5 - Ruins
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/ruins.png
+enemy:golem:cards/golem.png:7:1:1:8:misc/rock.png
+enemy:skeleton:cards/skeleton.png:4:5:2:0:misc/sword.png
+special:chest:cards/chest.png:3:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:3:misc/fire.png

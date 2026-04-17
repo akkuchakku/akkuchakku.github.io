@@ -1,0 +1,9 @@
+# 	World 1 - Forest
+# 	type:name:file:hp:dmg:spd:def:projectile
+bg/forest.png
+enemy:slime:cards/slime.png:1:1:1:0:misc/fist.png
+enemy:wolf:cards/wolf.png:2:3:2:0:misc/claw.png
+enemy:goblin:cards/goblin.png:3:2:1:1:misc/sword.png
+enemy:forest giant:cards/forest giant.png:7:2:1:2:misc/rock.png
+special:chest:cards/chest.png:1:0:0:0:misc/fire.png
+special:wall:cards/wall.png:10:0:0:1:misc/fire.png
