@@ -6,7 +6,7 @@ class Nav extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <head>
-                <link rel="stylesheet" href="/assets/css/assets/css/super.css">
+                <link rel="stylesheet" href="/assets/css/super.css">
             </head>
             <div class="nav-main">
                 <div class="container">
