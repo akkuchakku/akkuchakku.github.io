@@ -36,7 +36,7 @@ class Nav extends HTMLElement {
                             </ul>
 
                             <div class="dropdown">
-                                <button class="dropbtn">Other Work</button>
+                                <button class="dropbtn">UNSW Screen Production</button>
                                 <div class="dropdown-content">
                                     <a href="/pages/other/ex-sp2.html">SP2 Exercises</a>
                                     <a href="/pages/other/cradle.html">SP2 Photo Essay</a>
