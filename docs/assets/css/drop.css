@@ -2,8 +2,8 @@
 .dropbtn {
   background-color: transparent;
   color: white;
-  padding: 16px;
   font-size: 16px;
+  padding: 0.5rem 1rem;
   border: none;
 }
 
