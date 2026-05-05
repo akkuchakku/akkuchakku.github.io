@@ -45,7 +45,6 @@ deathMsg = [
 winMsg = [
     'You have defeated the Evil Space Wizard!', 'You have reached the top of the tower!', 'You Won!'
     ]
-
 fileStore = [eval(line) for line in open('files/fileStore.txt')]
 
 infoStore = eval(open('files/infoStore.txt').read())
