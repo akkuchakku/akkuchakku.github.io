@@ -3,3 +3,5 @@
 ---
 
 
+### Navlinks
+- [[2. World/Humanity/Places/Nations/Threscya/Threscya\|Threscya]]
