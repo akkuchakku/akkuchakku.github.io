@@ -11,7 +11,11 @@ class Footer extends HTMLElement {
             <footer class="position-relative">
                 <div class="container">
                     <div class="row">
-
+                        <div class="col-lg-3 mt-4 ml-auto">
+                            <ul class="list-unstyled footer-link">
+                                <li><a href="/inkswept/0.-notes/notes.html">instagram</a></li>
+                            </ul>
+                        </div>
                         <div class="col-lg-3 mt-4 ml-auto">
                             <ul class="list-unstyled footer-link">
                                 <li><a href="https://www.instagram.com/akku.chakku/">instagram</a></li>
